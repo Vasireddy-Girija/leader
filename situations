@@ -1,3 +1,157 @@
-1.Outside work - CTW, writing and presenting papers, WCSI
+1.Outside work - CTW team captain, writing and presenting papers, WCSI, iWE mentor for 4 girls, organising farewells
 2.meetings - MOM
 3.attrition
+
+R to py migration
+
+Recall a time when you were assigned a task outside of your job description. How did you handle the situation? What was the outcome? - farewells
+Tell me about a time when you had to adjust to a colleague’s working style in order to complete a project or achieve your objectives. - India/ US manager
+Tell me a situation where you convinced people to take the right approach for long term or convincing move from legacy systems
+
+******************************************************************************************************************************************************************
+https://leetcode.com/discuss/interview-question/5963463/Googlyness-Frequently-Asked-Questions
+******************************************************************************************************************************************************************
+General Behavioral Questions
+******************************************************************************************************************************************************************
+1.	Tell me about a time when your manager set reasonable demands. Follow up: Describe a situation with unreasonable demands.
+In general, we were asked to come with timelines for any task as for any task e do, we take up the complete ownership of it. Be it talking to users or other teams to . 
+Things change only if it is a production issue as timeline for prod issue is as soon as possible.
+We once had a bug in our code base. We 
+
+2.	Tell me about one of the biggest accomplishments in your career so far.
+VP promotion
+Getting selected to WCSI - Women Career's Strategic Initiative
+I wrote a white paper and presented in GS Engineering conference. Got the opportunity to meet CIO of Goldman Sachs.
+
+3.	Tell me about a time when you faced a challenging situation at work.
+manager was on paternity leavefor 6 months.
+team mate was on paternity leave. Other teammate left. New US manager. This time, I was confident that I'll be able to handle things.
+
+4.	How do you manage multiple priorities? Do you prefer working in a dynamic environment with changing priorities or doing the same type of work repeatedly?
+
+5.	Tell me about a time you set a goal for yourself and how you approached achieving it.
+personal goal - reading habit (story books, tech blogs). Started meditation daily.
+professional goal - (daily goals) I'll start my day by writing all the things that I wanted to do today or till how much I wanted to progress. 
+  Based on the meetings, I'll set the remaining time when to do what. These will be changed if we have any urgent asks or attend any meetings with juniors.
+  By the end of the day, I'll check how I progressed and write what I should do tomorrow.
+
+6.	Describe a positive leadership or managerial style you liked from one of your previous managers. How did it influence your work style?
+My manager used to have regular catch-ups with me. That generally starts with if I find my work interesting. What all resources 
+
+7.	Tell me about a time when you received critical feedback from your manager. How did you respond, and what actions did you take to improve?
+To improve my communication skills and to have visibilty. Both can be achieved by presenting my work.
+We have some groups who meet once in a 
+
+8.	Describe a situation where you had a disagreement with a colleague or manager. How did you resolve the conflict, and what was the outcome?
+Design discussions, document them.
+
+9.	How do you prioritize and manage multiple tasks or projects? Provide an example of a time when you successfully juggled several tasks at once.
+First priority is production issues.
+Making sure no one is blocked on me.
+If I had to de-prioritize any, inform manager and clients. Being transperent is very important as we can further think if we need more resources on this project or 
+adjust the timeline of the projects. Users should be notified accordingly.
+
+10.	Tell me about a time you had to manage a critical project under tight deadlines. How did you ensure completion on time?
+One of our teammates put paper and we had a deadline with users. In notice period, generally they pereapre knowledge transfer documents and we will also be taking 
+KTs from them. New team member came to my project as we have a deadline. Now, what I did is, distributed the work among us such that limited context is needed for it to be completed.
+example - focussing on monitoring
+
+11.	How do you handle situations where work assigned to you keeps getting de-prioritized and changed repeatedly? How would you feel about it?
+Adaptability is very important I feel. 
+
+******************************************************************************************************************************************************************
+Project and Ambiguity Questions
+******************************************************************************************************************************************************************
+1.	Tell me about a time when you faced ambiguity in the requirements of a project.
+
+2.	Tell me about a time you had to get people on the same page about a decision.
+We are doing at a more granular level. So we should see it as a quality perspective rather than quanity perspective.
+
+3.	How would you handle people who disagree with the majority decision on a non-work-related matter?
+4.	Tell me about a time you had to deal with last-minute changes in a project.
+5.	How would you prioritize tasks when facing multiple critical deadlines?
+
+******************************************************************************************************************************************************************
+Technical and Role-Related Questions
+******************************************************************************************************************************************************************
+1.	Imagine you’re part of the Google Photos team, and your feature detects smiling faces in photos. How will you identify false positives and what actions will you take?
+2.	Tell me about a time when you had to work on multiple projects simultaneously.
+3.	Give an example of a challenging technical problem you faced recently. How did you solve it, and what was the result?
+
+4.	How do you ensure the quality of your code and that of your team? Can you provide an example where your focus on quality made a difference?
+Build fails if unit tests percentage doesn't exceed 80%.
+
+5.	Describe a time when you encountered a significant bug or issue in production. How did you handle it?
+6.	Explain a situation where you misunderstood project requirements. How did you rectify it, and what did you learn?
+7.	Give an example of a time you had to quickly learn a new technology or tool. How did you approach it, and what was the outcome?
+I'm from electrical background. I know C, C++ STL. I learnt Java during my internship.
+
+******************************************************************************************************************************************************************
+Mentoring and Leadership Questions
+******************************************************************************************************************************************************************
+1.	Tell me about a time you advocated for yourself or someone on your team.
+2.	Describe a situation where you helped an underperforming team member improve.
+3.	How do you mentor junior team members? Can you share a successful mentoring experience?
+4.	What challenges have you faced when mentoring junior colleagues?
+5.	What would you do if a junior team member was not working properly and delaying tasks?
+
+******************************************************************************************************************************************************************
+Team Dynamics and Conflict Resolution Questions
+******************************************************************************************************************************************************************
+1.	Describe a time when you had to work with someone outside your team.
+2.	Tell me about a situation where you had a conflict with a colleague and how you resolved it.
+3.	What would you do if your team was not bonding well?
+4.	Follow-up: How would your approach change if you were the team lead?
+5.	Tell me about a situation where you proposed an idea, but your team disagreed. How did you handle it?
+6.	Have you worked with cross-team members? Can you describe your experience and how it went?
+7.	Describe a time when you handled a colleague who was difficult to work with.
+
+******************************************************************************************************************************************************************
+Goal Setting and Manager Expectations
+******************************************************************************************************************************************************************
+1.	What is your idea of a perfect manager? Would you be the type of manager you described?
+2.	Tell me about a situation where you worked outside your role definition or responsibilities.
+3.	Tell me about a situation where you learned something valuable from a colleague.
+4.	Tell me about a time when your work was deprioritized mid-way through a project. How did you handle the situation?
+5.	What generally excites you? What areas of work would you like to explore?
+
+******************************************************************************************************************************************************************
+Client, Deadline, and Process Improvement Questions
+******************************************************************************************************************************************************************
+1.	What would you do if you were going to miss a project deadline?
+Inform manager and clients that it would miss. Understanding why it missed/ retrospection is imp.
+
+2.	Suppose you are a product manager. After receiving all necessary approvals, a friend suggests a helpful change to your project. What do you do?
+If that change would have major impact - I ill add it and get the approvals again.
+If it is ike an enrichment or good to have feature, then will add it to the backlog.
+
+3.	Describe a scenario where you improved a process or system within your team. What impact did it have?
+Making our real-time system event based from schedule based. Improve latency of the system.
+
+4.	Imagine working on a project with a strict deadline. How would you approach the situation?
+Have daily tasks so that I can compete the project well before the timeline. I should keep some buffer for some unknowns.
+
+5.	What is the most challenging project you’ve worked on?
+
+******************************************************************************************************************************************************************
+Miscellaneous and Life Experience Questions
+******************************************************************************************************************************************************************
+1.	Describe a time when you solved a customer pain point.
+Root cause analysis of the alert in the message text.
+
+2.	What is the biggest hurdle you have faced in life? Why was it significant, and how did it affect you?
+Don't worry about things that are not in your control. Ask for help. Positive attitude.
+
+3.	Why are you leaving your current organization?
+
+4.	Have you encountered unreasonable tasks from your manager? How did you handle them?
+I never found them unreasonable as I was always given the context or involved in the mail threads or team chats where the issue is going on.
+
+5.	Describe a time when you had to make last-minute changes to your code. How did you feel about it?
+env specific values,which cannot be checked in UAT.
+
+6.	How do you stay updated with the latest industry trends? Can you give an example of applying a new trend or technology in your work?
+event based architecture
+******************************************************************************************************************************************************************
+Why do you want to switch ?
+Why google ? - product based, work culture, work-life balance
