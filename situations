@@ -8,6 +8,7 @@ Recall a time when you were assigned a task outside of your job description. How
 Tell me about a time when you had to adjust to a colleague’s working style in order to complete a project or achieve your objectives. - India/ US manager
 Tell me a situation where you convinced people to take the right approach for long term or convincing move from legacy systems
 
+retrospection is imp.
 ******************************************************************************************************************************************************************
 https://leetcode.com/discuss/interview-question/5963463/Googlyness-Frequently-Asked-Questions
 ******************************************************************************************************************************************************************
@@ -43,7 +44,7 @@ To improve my communication skills and to have visibilty. Both can be achieved b
 We have some groups who meet once in a 
 
 8.	Describe a situation where you had a disagreement with a colleague or manager. How did you resolve the conflict, and what was the outcome?
-Design discussions, document them.
+Design discussions, document them. Different ways to approach a problem.
 
 9.	How do you prioritize and manage multiple tasks or projects? Provide an example of a time when you successfully juggled several tasks at once.
 First priority is production issues.
@@ -63,6 +64,8 @@ Adaptability is very important I feel.
 Project and Ambiguity Questions
 ******************************************************************************************************************************************************************
 1.	Tell me about a time when you faced ambiguity in the requirements of a project.
+HRS - ambiguity at other side.
+get process name in alert - which was not given to us. One to one mapping to process and consumer. So it's not necessary.
 
 2.	Tell me about a time you had to get people on the same page about a decision.
 We are doing at a more granular level. So we should see it as a quality perspective rather than quanity perspective.
@@ -71,6 +74,7 @@ We are doing at a more granular level. So we should see it as a quality perspect
 Try coming to a common ground. Not comfortable going to parties in the night. So we all go for lunch. Veg vs. non-veg.
 
 4.	Tell me about a time you had to deal with last-minute changes in a project.
+HRS - rules should be at a set of applications. UAT testing helped. 
 
 5.	How would you prioritize tasks when facing multiple critical deadlines?
 
@@ -81,10 +85,13 @@ Technical and Role-Related Questions
 2.	Tell me about a time when you had to work on multiple projects simultaneously.
 
 3.	Give an example of a challenging technical problem you faced recently. How did you solve it, and what was the result?
+scheduled based to event based to reduce latency.
+how to build a model which is explainable - create metrics which addresses issues.
 
 4.	How do you ensure the quality of your code and that of your team? Can you provide an example where your focus on quality made a difference?
 Build fails if unit tests percentage doesn't exceed 80%.
 Documentation - to answer why for design choices.
+why part in code reviews. Add links if required. Personally learnt a lot from code reviews. Clean code book, Head first design patterns.
 
 5.	Describe a time when you encountered a significant bug or issue in production. How did you handle it?
 R and py precision. proactivey release it. Checks added such that mean+k*sigma is matching and not mean, k, sigma separately.
@@ -96,15 +103,22 @@ importance of minutesOfMeeting to avoid any misunderstandings. Ask them to confi
 
 7.	Give an example of a time you had to quickly learn a new technology or tool. How did you approach it, and what was the outcome?
 I'm from electrical background. I know C, C++ STL. I learnt Java during my internship.
+event based systems building.
 
 ******************************************************************************************************************************************************************
 Mentoring and Leadership Questions
 ******************************************************************************************************************************************************************
 1.	Tell me about a time you advocated for yourself or someone on your team.
+get process name in alert - which was not given to us. One to one mapping to process and consumer. So it's not necessary.
+production bug which was difficult to find.
+
 2.	Describe a situation where you helped an underperforming team member improve.
+Not underperforming. But helped on how to debug production issues. How to do the evidencing. Unit tests which checks functionality along with base case tests.
+
 3.	How do you mentor junior team members? Can you share a successful mentoring experience?
 4.	What challenges have you faced when mentoring junior colleagues?
 5.	What would you do if a junior team member was not working properly and delaying tasks?
+Are thye not interested in that particular task ?
 
 ******************************************************************************************************************************************************************
 Team Dynamics and Conflict Resolution Questions
@@ -113,11 +127,16 @@ Team Dynamics and Conflict Resolution Questions
 cross-team collaboration.
 
 2.	Tell me about a situation where you had a conflict with a colleague and how you resolved it.
+pros and cons. Documnet them for important design decisions.
+Staleful sytem - how much state and at what frequency - We would mainly consider it as brain-storming.
+
 3.	What would you do if your team was not bonding well?
 4.	Follow-up: How would your approach change if you were the team lead?
 5.	Tell me about a situation where you proposed an idea, but your team disagreed. How did you handle it?
 6.	Have you worked with cross-team members? Can you describe your experience and how it went?
-7.	Describe a time when you handled a colleague who was difficult to work with.
+
+7.	Describe a time when you handled a colleague who was difficult to work with. 
+time-zone differences.
 
 ******************************************************************************************************************************************************************
 Goal Setting and Manager Expectations
@@ -127,8 +146,10 @@ Goal Setting and Manager Expectations
 Farewells, CTW team captain, iWE mentor for 4 girls. Manager paternity leave.
 
 3.	Tell me about a situation where you learned something valuable from a colleague.
+Helped me to write a paper.
 
 4.	Tell me about a time when your work was deprioritized mid-way through a project. How did you handle the situation?
+adaptability is imp.
 
 5.	What generally excites you? What areas of work would you like to explore?
 Building highly scalable systems. Concurrency in distributed systems.
@@ -157,18 +178,23 @@ Miscellaneous and Life Experience Questions
 Root cause analysis of the alert in the message text.
 
 2.	What is the biggest hurdle you have faced in life? Why was it significant, and how did it affect you?
-Don't worry about things that are not in your control. Ask for help. Positive attitude.
+Gender inequality. Don't worry about things that are not in your control. Ask for help. Positive attitude.
 
 3.	Why are you leaving your current organization?
+In the same company for around 4.5 years. It helped me to grow personally and professionally and always recognised my effort. Currently, we don't deal with large scale systems
+in our projects. We don't scale them horizontally as we don't need it and it would be overkill there. Almost aware of all the things in my projects.
+So wanted to work on largescale distribiuted systems to get an opportunity to work on those.
 
 4.	Have you encountered unreasonable tasks from your manager? How did you handle them?
 I never found them unreasonable as I was always given the context or involved in the mail threads or team chats where the issue is going on.
 
 5.	Describe a time when you had to make last-minute changes to your code. How did you feel about it?
-env specific values,which cannot be checked in UAT.
+env specific values, which cannot be checked in UAT.
 
 6.	How do you stay updated with the latest industry trends? Can you give an example of applying a new trend or technology in your work?
 event based architecture
 ******************************************************************************************************************************************************************
 Why do you want to switch ?
-Why google ? - product based, work culture, work-life balance
+Why google ? - product based, work culture, work-life balance, building highly available and scalable systems.
+weekness - not being motivated to do uninteresting projects. - Learn something from any project u do. 
+Good integration tests, unit tests, regression tests will ensure easy migration.
