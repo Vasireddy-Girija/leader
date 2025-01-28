@@ -68,7 +68,10 @@ Project and Ambiguity Questions
 We are doing at a more granular level. So we should see it as a quality perspective rather than quanity perspective.
 
 3.	How would you handle people who disagree with the majority decision on a non-work-related matter?
+Try coming to a common ground. Not comfortable going to parties in the night. So we all go for lunch. Veg vs. non-veg.
+
 4.	Tell me about a time you had to deal with last-minute changes in a project.
+
 5.	How would you prioritize tasks when facing multiple critical deadlines?
 
 ******************************************************************************************************************************************************************
@@ -76,13 +79,21 @@ Technical and Role-Related Questions
 ******************************************************************************************************************************************************************
 1.	Imagine you’re part of the Google Photos team, and your feature detects smiling faces in photos. How will you identify false positives and what actions will you take?
 2.	Tell me about a time when you had to work on multiple projects simultaneously.
+
 3.	Give an example of a challenging technical problem you faced recently. How did you solve it, and what was the result?
 
 4.	How do you ensure the quality of your code and that of your team? Can you provide an example where your focus on quality made a difference?
 Build fails if unit tests percentage doesn't exceed 80%.
+Documentation - to answer why for design choices.
 
 5.	Describe a time when you encountered a significant bug or issue in production. How did you handle it?
+R and py precision. proactivey release it. Checks added such that mean+k*sigma is matching and not mean, k, sigma separately.
+Databases of both datacenters have same downtime. Got away from DB dependency eventually.
+Other issues - monitoring grafana dashboards. Quickly find out which component has issue. Check the logs. Sometimes this can be host issue.
+
 6.	Explain a situation where you misunderstood project requirements. How did you rectify it, and what did you learn?
+importance of minutesOfMeeting to avoid any misunderstandings. Ask them to confirm if my understanding is correct. Translating user requirements to tasks.
+
 7.	Give an example of a time you had to quickly learn a new technology or tool. How did you approach it, and what was the outcome?
 I'm from electrical background. I know C, C++ STL. I learnt Java during my internship.
 
@@ -99,6 +110,8 @@ Mentoring and Leadership Questions
 Team Dynamics and Conflict Resolution Questions
 ******************************************************************************************************************************************************************
 1.	Describe a time when you had to work with someone outside your team.
+cross-team collaboration.
+
 2.	Tell me about a situation where you had a conflict with a colleague and how you resolved it.
 3.	What would you do if your team was not bonding well?
 4.	Follow-up: How would your approach change if you were the team lead?
@@ -111,10 +124,14 @@ Goal Setting and Manager Expectations
 ******************************************************************************************************************************************************************
 1.	What is your idea of a perfect manager? Would you be the type of manager you described?
 2.	Tell me about a situation where you worked outside your role definition or responsibilities.
-3.	Tell me about a situation where you learned something valuable from a colleague.
-4.	Tell me about a time when your work was deprioritized mid-way through a project. How did you handle the situation?
-5.	What generally excites you? What areas of work would you like to explore?
+Farewells, CTW team captain, iWE mentor for 4 girls. Manager paternity leave.
 
+3.	Tell me about a situation where you learned something valuable from a colleague.
+
+4.	Tell me about a time when your work was deprioritized mid-way through a project. How did you handle the situation?
+
+5.	What generally excites you? What areas of work would you like to explore?
+Building highly scalable systems. Concurrency in distributed systems.
 ******************************************************************************************************************************************************************
 Client, Deadline, and Process Improvement Questions
 ******************************************************************************************************************************************************************
