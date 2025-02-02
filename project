@@ -1,0 +1,26 @@
+I graduated in 2020 from IIT Kharagpur with major in Electrical engineering and minor in CS. I did my summer internship in GS for 2 months in 2019.
+Got a pre-placement offer and joined the same team. Since then, I have been working in an ML+Software role in core engineering division.
+
+I was an analyst for 1.5 yrs. Got promoted to associate. I was an associate for 3 yrs. Recently got promoted to VP.
+
+What my team does ?
+Build real-time monitoring systems on infra like messaging systems like EMS, Kafka, Sybase DB, local disks on hosts.
+we also build models - mostly statistical models.
+we also build the complete end-to-end real-time pipeline where we take data in real-time, detect if there is any issue with the metrics, raise the alerts.
+
+As part of my roles and responsibilites,
+Depends on the stage of the project, it generally changes. 
+I get involved in getting requirements from users, do a POC. Get feedback. Productionize it and maintaining it.
+
+Recent project I worked on is Kafka Anomaly Detection -
+1.Condition clearing - We will close the alerts once the issue is resolved more than 30 mins.
+2.Users adding overrides - Eliminated dependency on us. 
+
+Messaging team publishes data to pulse kafka. Freq 1 min.
+Spark streamimg application for every 10sec.
+AD Server
+Transformation service
+model API server.
+
+Tech -
+Only one consumer within that group can be assigned to a single partition, allowing for parallel processing across different partitions by multiple consumers. 
