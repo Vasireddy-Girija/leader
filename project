@@ -24,3 +24,4 @@ model API server.
 
 Tech -
 Only one consumer within that group can be assigned to a single partition, allowing for parallel processing across different partitions by multiple consumers. 
+KafkaConsumer position() vs committed() - disable auto commit
